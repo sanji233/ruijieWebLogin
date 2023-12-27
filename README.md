@@ -7,8 +7,9 @@
 # 用法
 
 ```shell
-./ruijieWebLogin.sh username password
+./ruijieWebLogin.sh username password &
 ```
+可后台运行脚本
 
 - username参数为认证用户名。
 - password参数为认证密码。
