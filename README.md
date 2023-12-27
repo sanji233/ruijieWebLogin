@@ -7,7 +7,7 @@
 # 用法
 
 ```shell
-./ruijie_general.sh username password
+./ruijieWebLogin.sh username password
 ```
 
 - username参数为认证用户名。
